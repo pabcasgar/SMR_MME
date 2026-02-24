@@ -18,9 +18,9 @@ Lluvia de ideas: uso de un diagrama de Venn
 ### Esquema:
 
 -Introducción (Hook + TS + alcance)
-+Cuerpo (idea principal_n + soporte_n) x 1..n
-*Conclusión
-*Escritura
+-Cuerpo (idea principal_n + soporte_n) x 1..n
+-Conclusión
+-Escritura
 
 Introducción
 Gancho + Contexto + TE + Spoiler de la presentación

@@ -1,6 +1,14 @@
-Comparación y contraste
-Planificación
-Tema: Tipos de switches de teclado mecánico que hay.
+.md
+
+.pdf
+
+link al repositorio
+
+Presentación pptx en video
+
+# Comparación y contraste
+## Planificación
+*Tema:* Tipos de switches de teclado mecánico que hay.
 Audiencia: Lo que saben o quizás ya sepan sobre su tema => + -
 Antecedentes.
 Propósito: Señalar similitudes (comparar) y diferencias importantes (contrastar) para hacer pensar que switch va mejor depende de su situación.

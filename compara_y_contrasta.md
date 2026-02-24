@@ -10,10 +10,10 @@ Presentación pptx en video
 ## Planificación
 *Tema:* Tipos de switches de teclado mecánico que hay.    \
 Audiencia: Lo que saben o quizás ya sepan sobre su tema => + -
-Antecedentes.
-Propósito: Señalar similitudes (comparar) y diferencias importantes (contrastar) para hacer pensar que switch va mejor depende de su situación.
+## Antecedentes.
+Propósito: Señalar similitudes (comparar) y diferencias importantes (contrastar) para hacer pensar que switch va mejor depende de su situación.\
 Lluvia de ideas: uso de un diagrama de Venn
-Esquema:
+### Esquema:
 Introducción (Hook + TS + alcance)
 Cuerpo (idea principal_n + soporte_n) x 1..n
 Conclusión

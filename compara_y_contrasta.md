@@ -21,8 +21,9 @@ Lluvia de ideas: uso de un diagrama de Venn
 -Conclusión  
 -Escritura  
 
-Introducción
-Gancho + Contexto + TE + Spoiler de la presentación
+# Introducción
+Gancho + Contexto + TE + Spoiler de la presentación  
+
 ¿Estas cansado de jugar a las 3 de la mañana y que tu teclado haga mucho ruido?
 Cuando es tarde, todos queremos paz, incluso la gente que se queda hasta tarde jugando, pero si no tienes el switch correcto en el teclado pueden hacer mucho ruido, molestando a los demás.
 Ya esta comprobado que el switch rojo es el más silencioso, pero quizás no te convence su respuesta, por ello, hoy voy a comparar los tipos de switches que hay con sus cualidades para que encontréis cual es vuestro switch.

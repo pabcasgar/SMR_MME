@@ -16,10 +16,12 @@ Propósito: Señalar similitudes (comparar) y diferencias importantes (contrasta
 
 Lluvia de ideas: uso de un diagrama de Venn
 ### Esquema:
+```
 Introducción (Hook + TS + alcance)
 Cuerpo (idea principal_n + soporte_n) x 1..n
 Conclusión
 Escritura
+```
 Introducción
 Gancho + Contexto + TE + Spoiler de la presentación
 ¿Estas cansado de jugar a las 3 de la mañana y que tu teclado haga mucho ruido?

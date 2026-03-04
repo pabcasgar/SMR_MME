@@ -10,7 +10,7 @@ Durante muchos años, la informática ha dependido de procesadores tradicionales
 ### Funcionamiento
 Lo diferente que tienen estas tecnologías es su funcionamiento, ya que es muy diferente. Los chips cuánticos utilizan **QuBits**, ya que pueden representar varios estados al mismo tiempo gracias a la física cuántica. Esto permite realizar gran cantidad de cálculos dificiles la vez, cosas que los ordenadores tradicionales no pueden hacer.
 
-
+En esta imagen se ve la diferencia de los Bits clásicos a los QuBits
 ![Bits clásicos y QuBits](https://achirou.com/wp-content/uploads/2025/03/3669.1640606814.svg)
 
 

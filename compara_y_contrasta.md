@@ -13,6 +13,6 @@ Lo diferente que tienen estas tecnologías es su funcionamiento, ya que es muy d
 
 __En esta imagen se ve la diferencia de los Bits clásicos a los QuBits__
 ![Bits clásicos y QuBits](https://achirou.com/wp-content/uploads/2025/03/3669.1640606814.svg)
-Ya que en los bits clásicos solo puede ser 0 o 1 (Una cosa u otra cosa) en los **QuBits** tiene varias posibilidades de resultado
+Ya que en los bits clásicos solo puede ser 0 o 1 (Una cosa u otra cosa) en los **QuBits** puede estar en varios estados al mismo tiempo
 
 

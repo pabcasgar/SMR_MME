@@ -8,7 +8,8 @@ Durante muchos años, la informática ha dependido de procesadores tradicionales
 
 ## Cuerpo
 ### Funcionamiento
-Lo diferente que tienen estas tecnologías es su funcionamiento, ya que es muy diferente. Los chips cuánticos utilizan **QuBits**, ya que pueden representar varios estados al mismo tiempo gracias a la física cuántica. Esto permite realizar gran cantidad de cálculos dificiles la vez, cosas que los ordenadores tradicionales no pueden hacer.
+Lo diferente que tienen estas tecnologías es su funcionamiento, ya que es muy diferente. Los chips cuánticos utilizan **QuBits**, ya que pueden representar varios estados al mismo tiempo gracias a la física cuántica. Esto permite realizar gran cantidad de cálculos dificiles la vez, cosas que los ordenadores tradicionales no pueden hacer. Sin embargo los chips neuromórficos se inspiran en la estructura del cerebro humano y utilizan neuronas artificiales que se comunican entre sí.
+De igual manera, ambos tipos de procesadores representan una nueva forma de entender la computación, aunque el objetivo es distinto
 
 En esta imagen se ve la diferencia de los Bits clásicos a los QuBits
 ![Bits clásicos y QuBits](https://achirou.com/wp-content/uploads/2025/03/3669.1640606814.svg)

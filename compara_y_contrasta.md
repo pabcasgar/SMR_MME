@@ -36,7 +36,7 @@ En conclusión, tantos los chips cuánticos como los chips neuromórficos repres
 Mientras que la computación cuántica busca resolver problemas extremadamente complejos mediante principios de la física,
 la computación neuromórfica intenta crear sistemas inspirados en el cerebro humano.
 
-Fuentes usadas:
+## **Fuentes usadas:**
 - [https://www.computerworld.es/article/2100573/](https://www.computerworld.es/article/2100573/intel-construye-el-sistema-neuromorfico-mas-grande-del-mundo.html?utm_source=chatgpt.com)
 - [https://es.wikipedia.org/](https://es.wikipedia.org/wiki/Computaci%C3%B3n_cu%C3%A1ntica)
 - [https://www.intel.la/](https://www.intel.la/content/www/xl/es/research/neuromorphic-computing-loihi-2-technology-brief.html)

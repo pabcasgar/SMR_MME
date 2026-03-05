@@ -15,7 +15,7 @@ En esta redacción se van a comparar su funcionamiento, rendimiento y las aplica
 Lo diferente que tienen estas tecnologías es su funcionamiento, ya que es muy diferente. Los chips cuánticos utilizan **QuBits**,
 ya que pueden representar varios estados al mismo tiempo gracias a la física cuántica. 
 Esto permite realizar gran cantidad de cálculos dificiles la vez, cosas que los ordenadores tradicionales no pueden hacer. 
-A diferencia de loschips cuánticos, los chips neuromórficos se inspiran en la estructura del cerebro humano y utilizan neuronas artificiales que se comunican entre sí.\
+A diferencia de los chips cuánticos, los chips neuromórficos se inspiran en la estructura del cerebro humano y utilizan neuronas artificiales que se comunican entre sí.\
 ***De igual manera, ambos tipos de procesadores representan una nueva forma de entender la computación, aunque el objetivo es distinto***
 
 __En esta imagen se ve la diferencia de los Bits clásicos a los QuBits__

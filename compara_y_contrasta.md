@@ -24,7 +24,7 @@ Como se puede ver los bits clásicos solo puede ser 0 o 1 (Una cosa u otra cosa)
 
 ### Rendimiento
 En cuanto al rendimiento, cada tecnología tiene ventajas distintas.
-Los chips cuánticos pueden ser <ins> especialmente útiles para simulaciones científicas o cálculos avanzados.
+Los chips cuánticos pueden ser  <ins>especialmente útiles para simulaciones científicas o cálculos avanzados.
 </ins> Esto se debe a su capacidad de trabajar en simultaneos estados al mismo tiempo. 
 Sin emabargo, esta tecnología todavía se encuentra en desarrollo y requiere condiciones muy específicas para funcionar correctamente.
 Mientras que los  <ins>chips neuromórficos están diseñados para mejorar la eficiencia y el aprendizaje automático.</ins>

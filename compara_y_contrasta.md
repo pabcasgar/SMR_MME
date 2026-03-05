@@ -27,7 +27,7 @@ En cuanto al rendimiento, cada tecnología tiene ventajas distintas.
 Los chips cuánticos pueden ser  <ins>especialmente útiles para simulaciones científicas o cálculos avanzados.
 </ins> Esto se debe a su capacidad de trabajar en simultaneos estados al mismo tiempo. 
 Sin emabargo, esta tecnología todavía se encuentra en desarrollo y requiere condiciones muy específicas para funcionar correctamente.
-Mientras que  <ins>los chips neuromórficos están diseñados para mejorar la eficiencia y el aprendizaje automático.</ins>
+Mientras que los  <ins>chips neuromórficos están diseñados para mejorar la eficiencia y el aprendizaje automático.</ins>
 Por ejemplo el chip ***Loihi 2*** ha mejorado su rendimiento 10 veces respecto a su versión anterior
 y forma parte del ecosistema de computación neuromórfica de **Intel**
 

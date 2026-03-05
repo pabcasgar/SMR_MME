@@ -29,7 +29,7 @@ y forma parte del ecosistema de computación neuromórfica de **Intel**
 ### Uso
 El uso de estas tecnologías son diferentes. La computación cuántica podría utilizarse en áreas de investigación,
 simulación de materiales, criptografía o análisis de grandes cantidades de datos.
-En cambio, los chips neuromórficos se desarrollan principalmente para aplicaciones de inteligencia artificial,robotica, sensores inteligentes...
+En cambio, los chips neuromórficos se desarrollan principalmente para aplicaciones de inteligencia artificial, robotica, sensores inteligentes...
 
 ## Conclusión 
 En conclusión, tantos los chips cuánticos como los chips neuromórficos representan grandes avances en la informática.
@@ -37,10 +37,10 @@ Mientras que la computación cuántica busca resolver problemas extremadamente c
 la computación neuromórfica intenta crear sistemas inspirados en el cerebro humano.
 
 Fuentes usadas:
--https://www.computerworld.es/article/2100573/intel-construye-el-sistema-neuromorfico-mas-grande-del-mundo.html?utm_source=chatgpt.com
--https://es.wikipedia.org/wiki/Computaci%C3%B3n_cu%C3%A1ntica
--https://www.intel.la/content/www/xl/es/research/neuromorphic-computing-loihi-2-technology-brief.html
--https://achirou.com/que-es-un-chip-cuantico-y-como-funciona/
+-[https://www.computerworld.es/article/2100573/](https://www.computerworld.es/article/2100573/intel-construye-el-sistema-neuromorfico-mas-grande-del-mundo.html?utm_source=chatgpt.com)
+-[https://es.wikipedia.org/](https://es.wikipedia.org/wiki/Computaci%C3%B3n_cu%C3%A1ntica)
+-[https://www.intel.la/](https://www.intel.la/content/www/xl/es/research/neuromorphic-computing-loihi-2-technology-brief.html)
+-[https://achirou.com](https://achirou.com/que-es-un-chip-cuantico-y-como-funciona/)
 
 
 

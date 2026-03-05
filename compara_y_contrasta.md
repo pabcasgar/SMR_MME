@@ -41,6 +41,7 @@ la computación neuromórfica intenta crear sistemas inspirados en el cerebro hu
 - [https://es.wikipedia.org/](https://es.wikipedia.org/wiki/Computaci%C3%B3n_cu%C3%A1ntica)
 - [https://www.intel.la/](https://www.intel.la/content/www/xl/es/research/neuromorphic-computing-loihi-2-technology-brief.html)
 - [https://achirou.com](https://achirou.com/que-es-un-chip-cuantico-y-como-funciona/)
+- [https://chatgpt.com](https://chatgpt.com/)
 
 
 
